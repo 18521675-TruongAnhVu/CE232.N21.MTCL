@@ -1,8 +1,11 @@
 # CE232.N21.MTCL - Nhom 04
 
 Nguyễn Chí Thiện – 20521948
+
 Đào Ngọc Minh Trí – 20522045
+
 Nguyễn Mạnh Tấn – 19522173
+
 Trương Anh Vũ –18521675
 
 WOKWI: https://wokwi.com/projects/359789079553860609
