@@ -5,5 +5,7 @@ WOKWI: https://wokwi.com/projects/359789079553860609
 DEMO: https://youtu.be/H5kV2IRDVTE
 
 Giải thích code:
-* Khởi động hàm void setup()
-** 
+* Tạo hàm setup()
+
+
+* Tạo vòng lặp loop() để chạy chương trình
